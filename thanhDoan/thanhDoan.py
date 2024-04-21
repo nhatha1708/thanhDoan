@@ -82,7 +82,7 @@ class ThanhDoan(webdriver.Chrome):
 
         list1 = [None]  * len(links)
         list2 = [None]  * len(links)
-        for i in range(len(links)):
+        for i in range(5):
             try:
                 self.get(links[i])
                 self.implicitly_wait(15)
@@ -120,7 +120,8 @@ class ThanhDoan(webdriver.Chrome):
 
         return df
 
-    def to_csv(df):  
-        df.to_csv('dataframe.csv', index=False)
+    def to_csv(self,df):  
+        data = df.to_csv('dataframe.csv', index=False)
+        return data
         
 
