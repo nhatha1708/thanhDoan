@@ -1,0 +1,23 @@
+{
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "accept-language": "vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5",
+    "cache-control": "max-age=0",
+    "cookie": "datr=AgbwZWL7RQ-fAhwqaUAdVtba; sb=BwjwZYmfZ1IXq0EdCGwpbdZP; ps_n=1; ps_l=1; dpr=1.25; c_user=100025055373500; xs=20%3A0KODdvAsUCgm_Q%3A2%3A1714029117%3A-1%3A6182%3A%3AAcVcqHY2DUfbNi9SRPmBX_r7ot-msEpT1Y0StfTtzw; usida=eyJ2ZXIiOjEsImlkIjoiQXNjaHMwbDFvbW9pZXMiLCJ0aW1lIjoxNzE0MDM3NzgxfQ%3D%3D; fr=1mpCThZ5obOt8oJzU.AWXlOz55bNLausJqhgroP4mdqTI.BmKh-I..AAA.0.0.BmKiYV.AWWXgMdXYNM; wd=1920x991; presence=C%7B%22lm3%22%3A%22sc.6481724571935927%22%2C%22t3%22%3A%5B%7B%22o%22%3A0%2C%22i%22%3A%22sc.6730060547078712%22%7D%5D%2C%22utc3%22%3A1714038298709%2C%22v%22%3A1%7D; m_page_voice=100025055373500",
+    "dpr": "1.25",
+    "priority": "u=0, i",
+    "sec-ch-prefers-color-scheme": "dark",
+    "sec-ch-ua": "\"Chromium\";v=\"124\", \"Google Chrome\";v=\"124\", \"Not-A.Brand\";v=\"99\"",
+    "sec-ch-ua-full-version-list": "\"Chromium\";v=\"124.0.6367.61\", \"Google Chrome\";v=\"124.0.6367.61\", \"Not-A.Brand\";v=\"99.0.0.0\"",
+    "sec-ch-ua-mobile": "?1",
+    "sec-ch-ua-model": "\"SM-G981B\"",
+    "sec-ch-ua-platform": "\"Android\"",
+    "sec-ch-ua-platform-version": "\"13\"",
+    "sec-fetch-dest": "document",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "none",
+    "sec-fetch-user": "?1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36",
+    "viewport-width": "404"
+}
+

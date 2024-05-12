@@ -1,0 +1,24 @@
+{
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "accept-language": "en-US,en;q=0.9,vi;q=0.8",
+    "cookie": "sb=qrLYY9KcLzoV5L6KfttWJ8Uj; datr=qrLYY4NbbunI95Zt7bM_guEB; c_user=100025055373500; ps_n=1; ps_l=1; dpr=1.25; wd=1536x776; m_page_voice=100025055373500; locale=vi_VN; fbl_st=100439214%3BT%3A28589387; wl_cbv=v2%3Bclient_version%3A2496%3Btimestamp%3A1715363243; vpd=v1%3B915x412x3.4999999403953552; xs=6%3Aeq5OC5oUZUe4qw%3A2%3A1709717809%3A-1%3A6182%3A%3AAcUyiGHpHe45e6l7Efe7m4NmRNs6TPW9cmsnumSFNFrd; fr=1cSqmoYMRaxssTkQp.AWXaHGTIqWHmKAZJsDbDkAwpsc8.BmPw6j..AAA.0.0.BmPw6j.AWUm_Bys1h4; presence=C%7B%22t3%22%3A%5B%7B%22o%22%3A0%2C%22i%22%3A%22sc.6841451402640975%22%7D%2C%7B%22o%22%3A0%2C%22i%22%3A%22sc.6481724571935927%22%7D%2C%7B%22o%22%3A0%2C%22i%22%3A%22sc.7233757680008757%22%7D%2C%7B%22o%22%3A0%2C%22i%22%3A%22sc.7623223344404516%22%7D%5D%2C%22utc3%22%3A1715408548902%2C%22v%22%3A1%7D",
+    "dpr": "1.25",
+    "priority": "u=0, i",
+    "referer": "https://mbasic.facebook.com/tuoitredanangdn",
+    "sec-ch-prefers-color-scheme": "dark",
+    "sec-ch-ua": "\"Chromium\";v=\"124\", \"Google Chrome\";v=\"124\", \"Not-A.Brand\";v=\"99\"",
+    "sec-ch-ua-full-version-list": "\"Chromium\";v=\"124.0.6367.158\", \"Google Chrome\";v=\"124.0.6367.158\", \"Not-A.Brand\";v=\"99.0.0.0\"",
+    "sec-ch-ua-mobile": "?1",
+    "sec-ch-ua-model": "\"SM-G981B\"",
+    "sec-ch-ua-platform": "\"Android\"",
+    "sec-ch-ua-platform-version": "\"13\"",
+    "sec-fetch-dest": "document",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-user": "?1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36",
+    "viewport-width": "317"
+}
+
+
